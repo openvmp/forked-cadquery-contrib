@@ -1,7 +1,7 @@
 # This is a declaration of PartCAD package.
 # See https://partcad.org/ and https://github.com/openvmp/partcad for more information.
 
-name: /pub/examples/scripts/cadquery-contrib
+name: //pub/examples/scripts/cadquery-contrib
 desc: A place to share cadquery scripts, modules, and projects
 partcad: ">=0.7.14"
 
